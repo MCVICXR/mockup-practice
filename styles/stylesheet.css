@@ -5,7 +5,7 @@
   * {
     box-sizing: border-box;
   }
-
+ 
   html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -14,7 +14,7 @@
     font-family: Georgia, "Times New Roman", serif, Myriad Pro;
     background-position: center;
     width: 100%;
-  }
+  } 
    
 /* end primary ignition */
 
